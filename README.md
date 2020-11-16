@@ -1,0 +1,2 @@
+# ReactQRSkanneri
+React QR scanner
